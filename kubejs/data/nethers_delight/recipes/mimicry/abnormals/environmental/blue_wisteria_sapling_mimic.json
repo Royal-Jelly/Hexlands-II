@@ -2,14 +2,14 @@
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
-      "item": "environmental:pink_wisteria_sapling"
+      "item": "environmental:blue_wisteria_sapling"
     },
  	{
       "item": "nethers_delight:mimicarnation"
     }
   ],
    "result": {
-    "item": "environmental:wisteria_sapling",
+    "item": "environmental:blue_wisteria_sapling",
 	"count": 2
   },
   "conditions": [

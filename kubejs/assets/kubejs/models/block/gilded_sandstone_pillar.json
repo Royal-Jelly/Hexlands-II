@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end":  "kubejs:block/gilded_sandstone_pillar_top",
+        "side": "kubejs:block/gilded_sandstone_pillar_side",
+        "particle": "minecraft:block/sandstone_top"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " /#",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:ingots/netherite"
+        },
+        "/": {
+            "tag": "forge:ingots/iron"
+        }
+    },
+    "result": {
+        "item": "tetra:modular_double",
+        "nbt": {
+            "id": "76b175bf-9ca9-42f9-b403-f5ecf371cb52",
+            "double/head_left": "double/basic_hammer_left",
+            "double/basic_hammer_left_material": "basic_hammer/netherite",
+            "double/head_right": "double/basic_hammer_right",
+            "double/basic_hammer_right_material": "basic_hammer/netherite",
+            "double/handle": "double/basic_handle",
+            "double/basic_handle_material": "basic_handle/iron"
+        }
+    }
+}

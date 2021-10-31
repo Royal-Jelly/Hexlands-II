@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "kubejs:block/gilded_sandstone",
+    "down": "kubejs:block/gilded_sandstone",
+    "north": "kubejs:block/gilded_sandstone_invert",
+    "south": "kubejs:block/gilded_sandstone_invert",
+    "east": "kubejs:block/gilded_sandstone",
+    "west": "kubejs:block/gilded_sandstone",
+    "particle": "kubejs:block/gilded_sandstone"
+  }
+}

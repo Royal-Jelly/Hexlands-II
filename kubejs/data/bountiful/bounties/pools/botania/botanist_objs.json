@@ -1,0 +1,97 @@
+{
+  "modsRequired": ["botania"],
+  "content": [
+    {
+      "type": "item-tag",
+      "name": "Any Mystical Petal",
+      "content": "botania:petals",
+      "amountRange": {
+        "min": 1,
+        "max": 4
+      },
+      "unitWorth": 100,
+      "weight": 1000
+    },
+    {
+      "type": "item-tag",
+      "name": "Any Mystical Flower",
+      "content": "botania:mystical_flowers",
+      "amountRange": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 200,
+      "weight": 1000
+    },
+    {
+      "type": "item",
+      "content": "botania:black_petal",
+      "amountRange": {
+        "min": 1,
+        "max": 6
+      },
+      "unitWorth": 120,
+      "weight": 1000
+    },
+    {
+      "type": "item",
+      "content": "botania:purple_petal",
+      "amountRange": {
+        "min": 1,
+        "max": 6
+      },
+      "unitWorth": 140,
+      "weight": 1000
+    },
+    {
+      "type": "item",
+      "content": "botania:pure_daisy",
+      "amountRange": {
+        "min": 1,
+        "max": 2
+      },
+      "unitWorth": 450,
+      "weight": 1000
+    },
+    {
+      "type": "item",
+      "content": "botania:incense_stick",
+      "amountRange": {
+        "min": 1,
+        "max": 4
+      },
+      "unitWorth": 540,
+      "weight": 100
+    },
+    {
+      "type": "item",
+      "content": "botania:livingwood",
+      "amountRange": {
+        "min": 1,
+        "max": 12
+      },
+      "unitWorth": 460,
+      "weight": 100
+    },
+    {
+      "type": "item",
+      "content": "botania:livingrock",
+      "amountRange": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 540,
+      "weight": 100
+    },
+    {
+      "type": "item",
+      "content": "botania:twig_wand",
+      "amountRange": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1500,
+      "weight": 50
+    }
+  ]
+}

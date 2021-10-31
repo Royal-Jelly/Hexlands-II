@@ -1,0 +1,75 @@
+{
+  "modsRequired": ["botania"],
+  "content": [
+    {
+      "type": "item",
+      "content": "botania:quartz_dark",
+      "amountRange": {
+        "min": 4,
+        "max": 16
+      },
+      "unitWorth": 450,
+      "weight": 80
+    },
+    {
+      "type": "item",
+      "content": "botania:quartz_mana",
+      "amountRange": {
+        "min": 4,
+        "max": 16
+      },
+      "unitWorth": 450,
+      "weight": 80
+    },
+    {
+      "type": "item",
+      "content": "botania:quartz_blaze",
+      "amountRange": {
+        "min": 4,
+        "max": 16
+      },
+      "unitWorth": 450,
+      "weight": 80
+    },
+    {
+      "type": "item",
+      "content": "botania:quartz_lavender",
+      "amountRange": {
+        "min": 4,
+        "max": 16
+      },
+      "unitWorth": 450,
+      "weight": 80
+    },
+    {
+      "type": "item",
+      "content": "botania:quartz_red",
+      "amountRange": {
+        "min": 4,
+        "max": 16
+      },
+      "unitWorth": 450,
+      "weight": 80
+    },
+    {
+      "type": "item",
+      "content": "botania:quartz_elven",
+      "amountRange": {
+        "min": 4,
+        "max": 16
+      },
+      "unitWorth": 450,
+      "weight": 80
+    },
+    {
+      "type": "item",
+      "content": "botania:quartz_sunny",
+      "amountRange": {
+        "min": 4,
+        "max": 16
+      },
+      "unitWorth": 450,
+      "weight": 80
+    }
+  ]
+}

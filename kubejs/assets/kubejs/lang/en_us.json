@@ -1,0 +1,110 @@
+{
+    "itemGroup.kubejs.kubejs": "Immersive Decree",
+
+    "item.kubejs.bark_acacia": "Acacia Bark",
+    "item.kubejs.bark_birch": "Birch Bark",
+    "item.kubejs.bark_dark_oak": "Dark Oak Bark",
+    "item.kubejs.bark_jungle": "Jungle Bark",
+    "item.kubejs.bark_oak": "Oak Bark",
+    "item.kubejs.bark_spruce": "Spruce Bark",
+    "item.kubejs.bark_crimson": "Crimson Bark",
+    "item.kubejs.bark_warped": "Warped Bark",
+
+    "item.kubejs.bark_rosewood": "Rosewood Bark",
+    "item.kubejs.bark_morado": "Morado Bark",
+    "item.kubejs.bark_yucca": "Yucca Bark",
+    "item.kubejs.bark_kousa": "Kousa Bark",
+    "item.kubejs.bark_aspen": "Aspen Bark",
+    "item.kubejs.bark_watchful_aspen": "Watchful Aspen Bark",
+    "item.kubejs.bark_crustose": "Crustose Bark",
+    "item.kubejs.bark_grimwood": "Grimwood Bark",
+
+    "item.kubejs.bark_cypress": "Cypress Bark",
+
+    "item.kubejs.bark_driftwood": "Driftwood Bark",
+    "item.kubejs.bark_river": "Riverwood Bark",
+
+    "item.kubejs.bark_maple": "Maple Bark",
+    "item.kubejs.bark_sappy_maple": "Sappy Maple Bark",
+
+    "item.kubejs.bark_jacaranda": "Jacaranda Bark",
+    "item.kubejs.bark_redbud": "Redbud Bark",
+
+    "item.kubejs.bark_cherry": "Cherry Bark",
+    "item.kubejs.bark_willow": "Willow Bark",
+    "item.kubejs.bark_wisteria": "Wisteria Bark",
+
+    "item.kubejs.bark_twilight_oak": "Twilight Oak Bark",
+    "item.kubejs.bark_canopy": "Canopy Bark",
+    "item.kubejs.bark_mangrove": "Mangrove Bark",
+    "item.kubejs.bark_dark": "Darkwood Bark",
+    "item.kubejs.bark_time": "Timemwood Bark",
+    "item.kubejs.bark_transformation": "Transformation Bark",
+    "item.kubejs.bark_mining": "Minewood Bark",
+    "item.kubejs.bark_sorting": "Sortingwood Bark",
+
+
+    "item.kubejs.hide_cleaned": "Rawhide",
+    "item.kubejs.hide_washed": "Washed Hide",
+    "item.kubejs.hide_creosote": "Creosote Leather",
+    "item.kubejs.hide_treated": "Treated Leather",
+
+    "item.kubejs.rawhide_cow": "Cow Rawhide",
+    "item.kubejs.rawhide_pig": "Pig Rawhide",
+    "item.kubejs.rawhide_mooshroom": "Mooshroom Rawhide",
+    "item.kubejs.rawhide_mule": "Mule Rawhide",
+    "item.kubejs.rawhide_wolf": "Wolf Rawhide",
+    "item.kubejs.rawhide_horse": "Horse Rawhide",
+    "item.kubejs.rawhide_donkey": "Donkey Rawhide",
+    "item.kubejs.rawhide_llama": "Llama Rawhide",
+    "item.kubejs.rawhide_polarbear": "Polarbear Rawhide",
+    "item.kubejs.rawhide_sheep": "Sheep Rawhide",
+
+    "item.kubejs.rawhide_moobloom": "Moobloom Rawhide",
+
+    "item.kubejs.rawhide_deer": "Deer Rawhide",
+    "item.kubejs.rawhide_boar": "Boar Rawhide",
+    "item.kubejs.rawhide_kobold": "Kobold Rawhide",
+
+    "item.kubejs.rawhide_yak": "Yak Rawhide",
+
+    "item.kubejs.mold_blank": "Metal Press Mold: Blank",
+    "item.kubejs.mold_ingot": "Metal Press Mold: Ingot",
+    "item.kubejs.mold_block": "Metal Press Mold: Block",
+    "item.kubejs.mold_hopper": "Metal Press Mold: Hopper",
+
+    "item.kubejs.conveyor_belt": "Conveyor Belt",
+
+    "item.kubejs.rubber": "Rubber",
+    "item.kubejs.rubber_mix": "Rubber Grit",
+
+    "item.kubejs.vulcanizing_agents": "Vulcanizing Agents",
+
+    "item.kubejs.crude_oil_light_bucket": "Bucket of Light Crude Oil",
+    "item.kubejs.water_sulfur_bucket": "Bucket of Sulfurized Water",
+    "item.kubejs.lubricant_sulfer_bucket": "Bucket of Sulfurized Lubricant",
+    "item.kubejs.gasoline_sulfur_bucket": "Bucket of Sulfurized Gasoline",
+
+    "item.kubejs.liquid_resin_bucket": "Bucket Of Liquid Resi",
+    "item.kubejs.sticky_sap_bucket": "Bucket Of Sticky Sap",
+
+    "fluid.kubejs.crude_oil_light": "Light Crude Oil",
+    "fluid.kubejs.water_sulfur": "Sulfurized Water",
+    "fluid.kubejs.lubricant_sulfur": "Sulfurized Lubricant",
+    "fluid.kubejs.gasoline_sulfur": "Sulfurized Gasoline",
+    "fluid.kubejs.naptha_sulfur": "Sulfurized Naptha",
+    "fluid.kubejs.naptha": "Naptha",
+
+    "fluid.kubejs.sticky_sap": "Sticky Sap",
+    "fluid.kubejs.liquid_resin": "Liquid Resin",
+
+    "block.kubejs.gilded_sandstone": "Guilded Sandstone",
+    "block.kubejs.gilded_sandstone_slab": "Guilded Sandstone Slab",
+    "block.kubejs.gilded_sandstone_stairs": "Guilded Sandstone Stairs",
+    "block.kubejs.gilded_sandstone_pillar": "Guilded Sandstone Pillar",
+
+
+    "desc.immersiveengineering.info.mineral.arid_metamorphic_rock": "Arid Metamorphic Rock",
+    "desc.immersiveengineering.info.mineral.vivacious_metamorphic_rock": "Vivacious Metamorphic Rock"
+
+}

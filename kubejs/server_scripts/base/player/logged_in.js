@@ -60,19 +60,6 @@ onEvent('player.logged_in', (event) => {
                     }
                   }
                 },
-                fd_cookbook: {
-                  id: 'fd_cookbook:cook_book',
-                  Count: 1,
-                  tag: {
-                    'akashictome:displayName': {
-                      text: 'Cook Book'
-                    },
-                    'akashictome:is_morphing': 1,
-                    display: {
-                      Name: '{"translate":"akashictome.sudo_name","with":[{"color":"green","text":"Cook Book"}]}'
-                    }
-                  }
-                },
                 resourcefulbees: {
                   id: 'patchouli:guide_book',
                   Count: 1,

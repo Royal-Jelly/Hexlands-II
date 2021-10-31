@@ -10,7 +10,7 @@ onEvent('item.registry', function (event) {
       'bark_crimson',
       'bark_warped',
 
-      // Twilightforest
+      // Mod Compat
       /*
       'bark_twilight_oak',
       'bark_canopy',
@@ -28,18 +28,13 @@ onEvent('item.registry', function (event) {
       'bark_aspen',
       'bark_watchful_aspen',
       'bark_grimwood',
-
       'bark_cypress',
-      // Upgrade Aquatic
       'bark_driftwood',
       'bark_river',
-
       'bark_maple',
       'bark_sappy_maple',
-
       'bark_jacaranda',
       'bark_redbud',
-      // Environmental
       'bark_cherry',
       'bark_willow',
       'bark_wisteria'
@@ -52,6 +47,7 @@ onEvent('item.registry', function (event) {
       'hide_creosote',
       'hide_treated',
 
+      // Minecraft
       'rawhide_cow',
       'rawhide_donkey',
       'rawhide_horse',
@@ -62,14 +58,11 @@ onEvent('item.registry', function (event) {
       'rawhide_polarbear',
       'rawhide_sheep',
       'rawhide_wolf',
-
+      // Mod Compat
       'rawhide_moobloom',
-
       'rawhide_deer',
-
       //'rawhide_boar',
       //'rawhide_kobold',
-
       'rawhide_yak'
     ];
 
@@ -80,8 +73,7 @@ onEvent('item.registry', function (event) {
       'conveyor_belt',
       'rubber',
       'rubber_mix',
-      'vulcanizing_agents'//,
-      //'lumber_salvage'
+      'vulcanizing_agents'
     ];
 
     barkItems.forEach((item) => {

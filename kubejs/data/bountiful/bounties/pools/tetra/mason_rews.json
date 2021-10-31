@@ -1,0 +1,15 @@
+{
+  "modsRequired": ["tetra"],
+  "content": [
+    {
+      "type": "item",
+      "content": "tetra:geode",
+      "amountRange": {
+        "min": 1,
+        "max": 4
+      },
+      "unitWorth": 460,
+      "weight": 750
+    }
+  ]
+}

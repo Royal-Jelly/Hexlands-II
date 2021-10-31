@@ -1,14 +1,14 @@
 {
-  "modsRequired": ["abundance"],
+  "modsRequired": ["autumnity"],
   "content": [
     {
       "type": "item",
-      "content": "abundance:nemophila",
+      "content": "autumnity:turkey_egg_crate",
       "amountRange": {
         "min": 1,
-        "max": 12
+        "max": 5
       },
-      "unitWorth": 40,
+      "unitWorth": 1500,
       "weight": 1000
     }
   ]

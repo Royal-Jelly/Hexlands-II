@@ -1,0 +1,25 @@
+{
+  "modsRequired": ["atmospheric"],
+  "content": [
+    {
+      "type": "item",
+      "content": "atmospheric:passionfruit_crate",
+      "amountRange": {
+        "min": 1,
+        "max": 5
+      },
+      "unitWorth": 1500,
+      "weight": 1000
+    },
+    {
+      "type": "item",
+      "content": "atmospheric:shimmering_passionfruit_crate",
+      "amountRange": {
+        "min": 1,
+        "max": 5
+      },
+      "unitWorth": 2000,
+      "weight": 1000
+    }
+  ]
+}

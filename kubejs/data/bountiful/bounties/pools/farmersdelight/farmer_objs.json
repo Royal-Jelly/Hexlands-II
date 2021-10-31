@@ -3,42 +3,72 @@
   "content": [
     {
       "type": "item",
-      "content": "farmersdelight:cabbage",
+      "content": "farmersdelight:carrot_crate",
       "amountRange": {
-        "min": 12,
-        "max": 48
+        "min": 1,
+        "max": 5
       },
-      "unitWorth": 40,
+      "unitWorth": 1000,
       "weight": 1000
     },
     {
       "type": "item",
-      "content": "farmersdelight:tomato",
+      "content": "farmersdelight:potato_crate",
       "amountRange": {
-        "min": 12,
-        "max": 48
+        "min": 1,
+        "max": 5
       },
-      "unitWorth": 40,
+      "unitWorth": 1000,
       "weight": 1000
     },
     {
       "type": "item",
-      "content": "farmersdelight:onion",
+      "content": "farmersdelight:beetroot_crate",
       "amountRange": {
-        "min": 12,
-        "max": 48
+        "min": 1,
+        "max": 5
       },
-      "unitWorth": 40,
+      "unitWorth": 1000,
       "weight": 1000
     },
     {
       "type": "item",
-      "content": "farmersdelight:rice_panicle",
+      "content": "farmersdelight:cabbage_crate",
       "amountRange": {
-        "min": 12,
-        "max": 48
+        "min": 1,
+        "max": 5
       },
-      "unitWorth": 40,
+      "unitWorth": 1500,
+      "weight": 1000
+    },
+    {
+      "type": "item",
+      "content": "farmersdelight:tomato_crate",
+      "amountRange": {
+        "min": 1,
+        "max": 5
+      },
+      "unitWorth": 1000,
+      "weight": 1000
+    },
+    {
+      "type": "item",
+      "content": "farmersdelight:onion_crate",
+      "amountRange": {
+        "min": 1,
+        "max": 5
+      },
+      "unitWorth": 1000,
+      "weight": 1000
+    },
+    {
+      "type": "item",
+      "content": "farmersdelight:rice_bag",
+      "amountRange": {
+        "min": 1,
+        "max": 5
+      },
+      "unitWorth": 1000,
       "weight": 1000
     }
   ]

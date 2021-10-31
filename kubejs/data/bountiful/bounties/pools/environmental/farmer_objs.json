@@ -1,44 +1,45 @@
 {
+  "modsRequired": ["environmental"],
   "content": [
     {
       "type": "item",
-      "content": "minecraft:leather",
+      "content": "environmental:chicken_egg_crate",
       "amountRange": {
         "min": 1,
-        "max": 16
+        "max": 5
       },
-      "unitWorth": 250,
+      "unitWorth": 1000,
       "weight": 1000
     },
     {
       "type": "item",
-      "content": "minecraft:flint",
+      "content": "environmental:duck_egg_crate",
       "amountRange": {
         "min": 1,
-        "max": 32
+        "max": 5
       },
-      "unitWorth": 58,
+      "unitWorth": 1250,
       "weight": 1000
     },
     {
       "type": "item",
-      "content": "minecraft:rabbit_hide",
+      "content": "environmental:turtle_egg_crate",
       "amountRange": {
         "min": 1,
-        "max": 12
+        "max": 5
       },
-      "unitWorth": 200,
+      "unitWorth": 1500,
       "weight": 1000
     },
     {
       "type": "item",
-      "content": "minecraft:rabbit_hide",
+      "content": "environmental:truffle_crate",
       "amountRange": {
         "min": 1,
-        "max": 4
+        "max": 5
       },
-      "unitWorth": 2200,
+      "unitWorth": 2000,
       "weight": 1000
-    }
+    }1
   ]
 }

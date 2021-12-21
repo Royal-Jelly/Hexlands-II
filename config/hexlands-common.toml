@@ -3,11 +3,11 @@
 setHexLandsWorldTypeAsDefault = true
 # Should HexLands try and preserve the main end island, including end pillars (spikes), but resulting in less or no hexagons near the end origin.
 preserveMainEndIsland = true
+# Should HexLands add the 'minecraft:end_spike' feature (end pillars, with a crystal on top) to all End biomes (biomes that define their category as 'the_end')
+# When used together with preserveMainEndIsland = false, this will create a fully hexagonal End dimension, but end spikes will still generate in their normal positions.
+addEndSpikesToEndBiomes = false
 # Should HexLands try and use the BoP (Biomes O Plenty) biome source for the overworld?
 useBoPOverworld = true
 # Should HexLands try and use the BoP (Biomes O Plenty) biome source for the nether?
 useBoPNether = true
-# Should HexLands add the 'minecraft:end_spike' feature (end pillars, with a crystal on top) to all End biomes (biomes that define their category as 'the_end')
-# When used together with preserveMainEndIsland = false, this will create a fully hexagonal End dimension, but end spikes will still generate in their normal positions.
-addEndSpikesToEndBiomes = false
 

@@ -28,6 +28,8 @@ var woodVariantsToConstruct = [
     'environmental:cherry',
     'environmental:willow',
     'environmental:wisteria',
+    //Infernal expansion Luminous fungus has no plank blocks
+    //'infernalexp:luminous',
     //'twilightforest:twilight_oak',
     //'twilightforest:canopy',
     //'twilightforest:mangrove',

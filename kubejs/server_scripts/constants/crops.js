@@ -850,97 +850,97 @@ const cropRegistry = [
                 seed: 'botania:black_mushroom',
                 render: 'botania:black_mushroom',
                 plant: 'botania:black_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:blue_mushroom',
                 render: 'botania:blue_mushroom',
                 plant: 'botania:blue_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:brown_mushroom',
                 render: 'botania:brown_mushroom',
                 plant: 'botania:brown_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:cyan_mushroom',
                 render: 'botania:cyan_mushroom',
                 plant: 'botania:cyan_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:gray_mushroom',
                 render: 'botania:gray_mushroom',
                 plant: 'botania:gray_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:green_mushroom',
                 render: 'botania:green_mushroom',
                 plant: 'botania:green_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:light_blue_mushroom',
                 render: 'botania:light_blue_mushroom',
                 plant: 'botania:light_blue_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:light_gray_mushroom',
                 render: 'botania:light_gray_mushroom',
                 plant: 'botania:light_gray_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:lime_mushroom',
                 render: 'botania:lime_mushroom',
                 plant: 'botania:lime_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:magenta_mushroom',
                 render: 'botania:magenta_mushroom',
                 plant: 'botania:magenta_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:orange_mushroom',
                 render: 'botania:orange_mushroom',
                 plant: 'botania:orange_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:pink_mushroom',
                 render: 'botania:pink_mushroom',
                 plant: 'botania:pink_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:purple_mushroom',
                 render: 'botania:purple_mushroom',
                 plant: 'botania:purple_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:red_mushroom',
                 render: 'botania:red_mushroom',
                 plant: 'botania:red_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:white_mushroom',
                 render: 'botania:white_mushroom',
                 plant: 'botania:white_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'botania:yellow_mushroom',
                 render: 'botania:yellow_mushroom',
                 plant: 'botania:yellow_mushroom',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 seed: 'minecraft:nether_wart',

@@ -26,6 +26,10 @@ onEvent('recipes', (event) => {
         shapelessRecipe('coins:coin_pile_platinum', ['9x coins:coin_platinum']),
         shapelessRecipe('coins:coin_pile_diamond', ['9x coins:coin_diamond']),
 
+        // Infernal Expansion
+        shapelessRecipe('3x infernalexp:luminous_hyphae', ['4x infernalexp:luminous_stem']),
+        shapelessRecipe('3x infernalexp:stripped_luminous_hyphae', ['4x infernalexp:stripped_luminous_stem']),
+
         // Immersive Engineering
         shapelessRecipe('immersiveengineering:conveyor_basic', ['kubejs:conveyor_belt','immersiveengineering:component_steel','#forge:rods/steel','#forge:plates/steel']),
         shapelessRecipe('immersiveengineering:conveyor_vertical', ['immersiveengineering:conveyor_basic','#forge:plates/iron']),

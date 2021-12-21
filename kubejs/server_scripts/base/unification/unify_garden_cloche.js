@@ -105,10 +105,7 @@ function crops_immersiveengineering_cloche(event, type, crop) {
         case 'grass':
             substrate = 'minecraft:grass_block';
             break;
-        case 'glowcelium':
-            substrate = 'quark:glowcelium';
-            break;
-        case 'mushroom':
+        case 'mycelium':
             substrate = 'minecraft:mycelium';
             break;
         case 'nether':
@@ -203,10 +200,7 @@ function trees_immersiveengineering_cloche(event, tree) {
         case 'end_stone':
             substrate = 'minecraft:end_stone';
             break;
-        case 'glowcelium':
-            substrate = 'quark:glowcelium';
-            break;
-        case 'mushroom':
+        case 'mycelium':
             substrate = 'minecraft:mycelium';
             break;
         case 'nether':

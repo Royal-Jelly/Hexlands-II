@@ -58,6 +58,7 @@ const treeRegistry = [
                 rate: { living: 50, dead: 6 }
             },
             // Quark Compat
+            /*
             {
                 sapling: 'quark:blue_blossom_sapling',
                 trunk: 'minecraft:spruce_log',
@@ -105,7 +106,7 @@ const treeRegistry = [
                 substrate: 'dirt',
                 sap: 'kubejs:liquid_resin',
                 rate: { living: 50, dead: 6 }
-            },
+            },*/
             // Atmospheric
             {
                 sapling: 'atmospheric:rosewood_sapling',
@@ -342,7 +343,7 @@ const treeRegistry = [
                 sapling: 'minecraft:brown_mushroom',
                 trunk: 'minecraft:mushroom_stem',
                 leaf: 'minecraft:brown_mushroom_block',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 sapling: 'minecraft:crimson_fungus',
@@ -354,7 +355,7 @@ const treeRegistry = [
                 sapling: 'minecraft:red_mushroom',
                 trunk: 'minecraft:mushroom_stem',
                 leaf: 'minecraft:red_mushroom_block',
-                substrate: 'mushroom'
+                substrate: 'mycelium'
             },
             {
                 sapling: 'minecraft:warped_fungus',
@@ -362,12 +363,19 @@ const treeRegistry = [
                 leaf: 'minecraft:warped_wart_block',
                 substrate: 'warped_nylium'
             },
+            // Infernal Expansion - may need update to new substrate
+            {
+                sapling: 'infernalexp:luminous_fungus',
+                trunk: 'infernalexp:luminous_stem',
+                leaf: 'infernalexp:luminous_wart_block',
+                substrate: 'mycelium'
+            }/*,
             {
                 sapling: 'quark:glowshroom',
                 trunk: 'quark:glowshroom_stem',
                 leaf: 'quark:glowshroom_block',
                 substrate: 'glowcelium'
-            }
+            }*/
         ]
     }
 ];

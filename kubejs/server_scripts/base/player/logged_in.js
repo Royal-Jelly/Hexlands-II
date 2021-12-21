@@ -113,16 +113,6 @@ onEvent('player.logged_in', (event) => {
                       Name: '{"translate":"akashictome.sudo_name","with":[{"color":"green","text":"Food Book"}]}'
                     }
                   }
-                },
-                twilightforest: {
-                  id: 'patchouli:guide_book',
-                  Count: 1,
-                  tag: {
-                    'patchouli:book': 'twilightforest:guide',
-                    'akashictome:displayName': {
-                      text: "Traveller's Logbook"
-                    }
-                  }
                 }
               }
             }));

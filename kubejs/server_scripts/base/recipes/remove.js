@@ -42,10 +42,10 @@ onEvent('recipes', (event) => {
         // Immersive Petroleum
         'immersivepetroleum:cooking/petcoke',
         'immersivepetroleum:distillationtower/oilcracking',
-        'immersivepetroleum:hydrotreater/sulfur_recovery',
+        'immersivepetroleum:hydrotreater/sulfur_recovery'//,
 
-        //Quark
-        'quark:building/crafting/tallow_from_block',
+        // Quark
+        //'quark:building/crafting/tallow_from_block',
     ];
 
     outputRemovals.forEach((removal) => {

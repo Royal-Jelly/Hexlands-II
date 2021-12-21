@@ -39,7 +39,10 @@ Thumbs.db
 
 background.png
 
+DistantHorizons.toml
+
 config.json
+config.bak.json
 manifest.json
 patchouli_data.json
 mode.json
